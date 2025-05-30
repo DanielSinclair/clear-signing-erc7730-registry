@@ -627,8 +627,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": []
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null
@@ -684,8 +683,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -750,8 +748,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -804,7 +801,7 @@
                 "$id": null,
                 "label": "Allowance",
                 "format": "amount",
-                "params": {},
+                "params": null,
                 "path": "value",
                 "value": null
               },
@@ -882,8 +879,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -895,8 +891,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null
@@ -962,8 +957,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -975,8 +969,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null

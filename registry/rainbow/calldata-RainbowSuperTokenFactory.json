@@ -1270,8 +1270,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": []
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null
@@ -1286,8 +1285,7 @@
                 "eoa",
                 "token",
                 "collection"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.target",
             "value": null
@@ -1327,8 +1325,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -1343,8 +1340,7 @@
                 "eoa",
                 "token",
                 "collection"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.target",
             "value": null
@@ -1393,8 +1389,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -1409,8 +1404,7 @@
                 "eoa",
                 "token",
                 "collection"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.target",
             "value": null
@@ -1447,7 +1441,7 @@
                 "$id": null,
                 "label": "Allowance",
                 "format": "amount",
-                "params": {},
+                "params": null,
                 "path": "value",
                 "value": null
               },
@@ -1525,8 +1519,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -1538,8 +1531,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null
@@ -1554,8 +1546,7 @@
                 "eoa",
                 "token",
                 "collection"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.target",
             "value": null
@@ -1605,8 +1596,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.sellTokenAddress",
             "value": null
@@ -1618,8 +1608,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.buyTokenAddress",
             "value": null
@@ -1634,8 +1623,7 @@
                 "eoa",
                 "token",
                 "collection"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.target",
             "value": null
@@ -1751,8 +1739,7 @@
             "params": {
               "types": [
                 "token"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.token",
             "value": null
@@ -1765,8 +1752,7 @@
               "types": [
                 "eoa",
                 "wallet"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.recipient",
             "value": null
@@ -1811,7 +1797,7 @@
             "$id": null,
             "label": "Supply",
             "format": "amount",
-            "params": {},
+            "params": null,
             "path": "#.supply",
             "value": null
           },
@@ -1839,8 +1825,7 @@
               "types": [
                 "eoa",
                 "wallet"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.creator",
             "value": null
@@ -1887,7 +1872,7 @@
             "$id": null,
             "label": "Supply",
             "format": "amount",
-            "params": {},
+            "params": null,
             "path": "#.supply",
             "value": null
           },
@@ -1907,8 +1892,7 @@
               "types": [
                 "eoa",
                 "wallet"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.creator",
             "value": null
@@ -1972,7 +1956,7 @@
             "$id": null,
             "label": "Supply",
             "format": "amount",
-            "params": {},
+            "params": null,
             "path": "#.supply",
             "value": null
           },
@@ -2000,8 +1984,7 @@
               "types": [
                 "eoa",
                 "wallet"
-              ],
-              "sources": null
+              ]
             },
             "path": "#.creator",
             "value": null
@@ -2010,7 +1993,7 @@
             "$id": null,
             "label": "Purchase Amount",
             "format": "amount",
-            "params": {},
+            "params": null,
             "path": "#.amountIn",
             "value": null
           }
